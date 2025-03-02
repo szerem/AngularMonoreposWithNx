@@ -1,0 +1,15 @@
+{
+  "name": "@myorg/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@angular-devkit/core": "~19.1.0",
+    "@nx/angular": "20.4.6",
+    "@nx/workspace": "20.4.6",
+    "nx": "20.4.6",
+    "typescript": "~5.7.2"
+  }
+}
